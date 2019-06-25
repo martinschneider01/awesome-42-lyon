@@ -14,6 +14,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 ### Tags
 - :free: - Gratuit
+- :globe_with_meridians: - Service Online (sans téléchargement)
 
 
 ## Table des matières
@@ -22,4 +23,4 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 Audiovisuel
 -----------
-* [Photopea](https://www.photopea.com/) - Photoshop en ligne :free:
+* [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
