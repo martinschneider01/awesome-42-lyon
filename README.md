@@ -20,6 +20,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Audiovisuel](#audiovisuel-et-design)
 	- [Outils de développement](#outils-de-développement)
 		- [Général](#général-1)
+		- [Web](#web)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
@@ -54,6 +55,8 @@ Logiciels et services web
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
 * [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
 
+##### Web
+* [Postman](https://www.getpostman.com/) - Outil pratique pour développer et/ou manipuler des APIs facilement :white_check_mark:
 
 Extensions
 ----------
