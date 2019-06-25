@@ -25,6 +25,11 @@ Logiciels et services web
 -------------------------
 *Programmes ou services en ligne utiles et gratuits utilisables sur les Macs de l'école*
 
+### Tags
+- :globe_with_meridians: - Service en ligne (sans téléchargement)
+- :white_check_mark: - Présent sur le MSC
+- :heavy_check_mark: - Présent sur brew
+
 #### Audiovisuel
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
 * [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
