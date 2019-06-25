@@ -60,14 +60,13 @@ Extensions
 * [Tabby Cats](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) - Remplace la page "nouvel onglet" par un chat mignon généré aléatoirement
 
 #### VSCode
-
+* [Live Share](https://visualstudio.microsoft.com/services/live-share/) - Programmer à plusieurs en même temps, marche comme Google Doc à plusieurs
 
 Ressources en ligne
 -------------------
 *Sites de tutos, d'actualités, d'articles*
 
 #### Général
-* []() - 
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
 #### Programmation
