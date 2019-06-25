@@ -16,14 +16,14 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 ## Table des matières
 - [Logiciels et services web](#logiciels-et-services-web)
-	- [Général](#general)
+	- [Général](#général)
 	- [Audiovisuel](#audiovisuel)
-	- [Outils de développement](#outils-de-developpement)
+	- [Outils de développement](#outils-de-développement)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
-	- [Général](#general-1)
+	- [Général](#général-1)
 	- [Programmation](#programmation)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
