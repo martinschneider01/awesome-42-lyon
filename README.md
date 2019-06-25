@@ -20,7 +20,7 @@ Logiciels et services web
 -------------------------
 *Programmes ou services en ligne utiles et gratuits utilisables sur les Macs de l'école*
 
-# Tags
+##### Tags
 - :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
 - :heavy_check_mark: - Présent sur brew
