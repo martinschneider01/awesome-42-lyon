@@ -76,7 +76,7 @@ Ressources en ligne
 
 Bons plans IRL
 --------------
-*Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Lyon*
+*Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Lyon, ou juste les coins cool de Lyon*
 
 #### Bars et Restos
 * [ConfluTime](https://fr-fr.facebook.com/pages/category/Bar/ConfluTime-1841249056168178/) - Bar proche de l'école, Happy Hours constant pour les students avec la carte - 5€/pinte
