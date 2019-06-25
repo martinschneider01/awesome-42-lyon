@@ -17,7 +17,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 ## Table des matières
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Général](#général)
-	- [Audiovisuel](#audiovisuel)
+	- [Audiovisuel](#audiovisuel-et-design)
 	- [Outils de développement](#outils-de-développement)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
