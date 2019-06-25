@@ -1,13 +1,12 @@
 <div align="center">
 	<img width="500" height="266" src="media/tiny42Lawsm.png" alt="Awesome">
-	<br>
 </div>
+<br>
 <p align="center">
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 </p>
-
 <br>
 
 # À propos
