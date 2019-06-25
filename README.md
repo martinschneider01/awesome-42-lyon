@@ -6,11 +6,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </p>
 
 <br>
 
 # À propos
 Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">C'est quoi une awesome list ? (anglais)</a><br>
-La liste est ouverte à la contribution, n'hésitez donc pas à modifier le README, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais).</a>
+La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais).</a>
