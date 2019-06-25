@@ -18,13 +18,13 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Général](#general)
 	- [Audiovisuel](#audiovisuel)
-	- [Programmation](#programmation)
+	- [Outils de développement](#outils-de-developpement)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
 	- [Général](#general-1)
-	- [Programmation](#programmation-1)
+	- [Programmation](#programmation)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
 
@@ -46,7 +46,7 @@ Logiciels et services web
 * [Archillect](http://archillect.com/about) - AI qui trouve des images en fonction d'un mot clé (pour trouver de l'inspiration) :globe_with_meridians:
 * [ClipChamp](https://clipchamp.com) - Montage vidéo en ligne :globe_with_meridians:
 
-#### Programmation
+#### Outils de développement
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
 
