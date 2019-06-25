@@ -36,6 +36,7 @@ Logiciels et services web
 - :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
 - :beer: - Présent sur brew
+- :free: - Avantage étudiant
 
 #### Général
 * [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
@@ -51,6 +52,8 @@ Logiciels et services web
 #### Outils de développement
 
 ##### Général
+* [JetBrains Student](https://www.jetbrains.com/student/) - IDE extrèmement complet, gratuit pour les students 42 (utiliser l'email @student.42.fr) :free:
+* [Github Education](https://education.github.com/students) - Pack Github Student, avantages pro (utiliser l'email @student.42.fr) :free:
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
 * [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
