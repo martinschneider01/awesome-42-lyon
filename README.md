@@ -6,7 +6,9 @@
 </div>
 
 <p align="center">
-  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
 </p>
 
 <br>
