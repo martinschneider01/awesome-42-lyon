@@ -96,6 +96,8 @@ Bons plans IRL
 
 #### Restos
 * Subway - Réduction étudiante (10% il me semble, à vérifier)
+* BurgerKing - Menu KingDeal à 5€50 environ, bon rapport quantité prix
+* [McDonald's](https://www.mcdonalds.fr/actualites/programme-fidelite) - Programme de fidélité via App Mobile
 
 #### Culture
 * [Musée des Confluences](http://www.museedesconfluences.fr/fr/informations-pratiques) - Musée gratuit pour les étudiants de moins de 26 ans
