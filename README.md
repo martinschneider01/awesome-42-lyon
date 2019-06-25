@@ -13,6 +13,7 @@ Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesom
 La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais).</a>
 
 ### Tags
+- :free: - Gratuit
 
 
 ## Table des matières
@@ -21,3 +22,4 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 Audiovisuel
 -----------
+* [Photopea](https://www.photopea.com/) - Photoshop en ligne :free:
