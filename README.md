@@ -11,13 +11,5 @@
 
 <br>
 
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
-
-<br>
-
-<p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
-</p>
-<br>
+# À propos
+Une awesome liste pour 42 Lyon ! 
