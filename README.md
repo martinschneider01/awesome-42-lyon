@@ -33,7 +33,7 @@ Logiciels et services web
 *Programmes ou services en ligne utiles et gratuits utilisables sur les Macs de l'école*
 - :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
-- :heavy_check_mark: - Présent sur brew
+- :beer: - Présent sur brew
 
 #### Général
 * [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
@@ -49,6 +49,7 @@ Logiciels et services web
 #### Outils de développement
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
+* [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
 
 
 Extensions
