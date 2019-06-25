@@ -28,15 +28,17 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Général](#général-2)
 	- [Programmation](#programmation)
 - [Bons plans IRL](#bons-plans-irl)
-	- [Bars et Restos](#bars-et-restos)
+	- [Bars](#bars)
+	- [Restos](#restos)
+	- [Culture](#culture)
 
 Logiciels et services web
 -------------------------
 *Programmes ou services en ligne utiles et gratuits utilisables sur les Macs de l'école*
+- :free: - Avantages étudiant
 - :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
 - :beer: - Présent sur brew
-- :free: - Avantage étudiant
 
 #### Général
 * [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
@@ -88,5 +90,12 @@ Bons plans IRL
 --------------
 *Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Lyon, ou juste les coins cool de Lyon*
 
-#### Bars et Restos
+#### Bars
 * [ConfluTime](https://fr-fr.facebook.com/pages/category/Bar/ConfluTime-1841249056168178/) - Bar proche de l'école, Happy Hours constant pour les students avec la carte - 5€/pinte
+
+#### Restos
+* Subway - Réduction étudiante (10% il me semble, à vérifier)
+
+#### Culture
+* [Musée des Confluences](http://www.museedesconfluences.fr/fr/informations-pratiques) - Musée gratuit pour les étudiants de moins de 26 ans
+* Cinéma UGC - Des réductions pour avoir des places à 6€ sont assez régulièrements distribuées à Carrefour Confluence
