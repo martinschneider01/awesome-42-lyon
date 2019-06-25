@@ -19,11 +19,12 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Général](#général)
 	- [Audiovisuel](#audiovisuel-et-design)
 	- [Outils de développement](#outils-de-développement)
+		- [Général](#général-1)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
-	- [Général](#général-1)
+	- [Général](#général-2)
 	- [Programmation](#programmation)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
@@ -47,6 +48,8 @@ Logiciels et services web
 * [ClipChamp](https://clipchamp.com) - Montage vidéo en ligne :globe_with_meridians:
 
 #### Outils de développement
+
+##### Général
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
 * [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
