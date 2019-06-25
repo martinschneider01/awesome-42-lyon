@@ -10,7 +10,7 @@
 
 ### À propos
 Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">C'est quoi une awesome list ? (anglais)</a><br>
-La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais).</a>
+La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais)</a>, ou à m'envoyer un message sur Slack (mschneid) pour toutes demandes !
 
 ## Table des matières
 - [Logiciels et services web](#logiciels-et-services-web)
