@@ -13,7 +13,7 @@ Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesom
 La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fichier README.md, en respectant <a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">le guide de contribution (anglais).</a>
 
 ### Tags
-- :globe_with_meridians: - Service Online (sans téléchargement)
+- :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
 - :heavy_check_mark: - Présent sur brew
 
@@ -23,7 +23,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 Logiciels et services web
 -------------------------
-*Programmes ou service en ligne utiles et gratuits, possibilité utilisation sur les Macs de l'école*
+*Programmes ou services en ligne utiles et gratuits utilisables sur les Macs de l'école*
 
 #### Audiovisuel
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
