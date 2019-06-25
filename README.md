@@ -54,6 +54,7 @@ Logiciels et services web
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
 * [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
+* [Aria](https://itunes.apple.com/us/app/aria/id1431709436?l=fr&ls=1&mt=12) - Éditeur de texte développé en solo par bpisano
 
 ##### Web
 * [Postman](https://www.getpostman.com/) - Outil pratique pour développer et/ou manipuler des APIs facilement :white_check_mark:
