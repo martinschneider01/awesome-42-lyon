@@ -80,6 +80,7 @@ Ressources en ligne
 *Sites de tutos, d'actualités, d'articles*
 
 #### Général
+* /sgoinfre/Brainfood (sur le réseau de 42 Lyon oc) - Beaucoups de PDF (cours, tutos)
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
 #### Programmation
