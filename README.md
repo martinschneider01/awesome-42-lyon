@@ -18,10 +18,12 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - :heavy_check_mark: - Présent sur brew
 
 ## Table des matières
-- [Logiciels et services web]
+- [Logiciels et services web](#logicielsetservicesweb)
 	- [Audiovisuel](#audiovisuel)
 
 Logiciels et services web
 -------------------------
-*Programmes ou service en ligne utiles et gratuits, possibilité utilisation sur les Macs de l'école
+*Programmes ou service en ligne utiles et gratuits, possibilité utilisation sur les Macs de l'école*
+
+#### Audiovisuel
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
