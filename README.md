@@ -12,4 +12,4 @@
 <br>
 
 # À propos
-Une awesome liste pour 42 Lyon ! 
+Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesome/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
