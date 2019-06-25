@@ -40,7 +40,7 @@ Logiciels et services web
 * [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
 * [DaVinci Resolve](https://apps.apple.com/fr/app/davinci-resolve/id571213070?mt=12) - Montage vidéo (à installer sur l'App Store, avec un compte Apple)
 * [Archillect](http://archillect.com/about) - AI qui trouve des images en fonction d'un mot clé (pour trouver de l'inspiration)
-* [ClipChamp](clipchamp.com) - Montage vidéo en ligne :free: :globe_with_meridians:
+* [ClipChamp](https://clipchamp.com) - Montage vidéo en ligne :free: :globe_with_meridians:
 
 
 #### Gestion de projets
