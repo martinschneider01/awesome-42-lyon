@@ -41,7 +41,7 @@ Logiciels et services web
 
 #### Extensions Chrome/Firefox
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) - Bloqueur de publicité
-* [Tabby Cats](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) - Remplace la page "nouvel onglet" par un chat généré aléatoirement (ATTENTION: TRÈS MIGNION)
+* [Tabby Cats](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) - Remplace la page "nouvel onglet" par un chat généré aléatoirement (ATTENTION: TRÈS MIGNON)
 
 #### Programmation
 * PLACEHOLDER
