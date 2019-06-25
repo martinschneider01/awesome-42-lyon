@@ -18,8 +18,10 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Général](#general)
 	- [Audiovisuel](#audiovisuel)
-	- [Extensions Chrome/Firefox](#extensions-chromefirefox)
 	- [Programmation](#programmation)
+- [Extensions](#extensions)
+	- [Chrome/Firefox](#chrome-firefox)
+	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
@@ -42,13 +44,20 @@ Logiciels et services web
 * [Archillect](http://archillect.com/about) - AI qui trouve des images en fonction d'un mot clé (pour trouver de l'inspiration) :globe_with_meridians:
 * [ClipChamp](https://clipchamp.com) - Montage vidéo en ligne :globe_with_meridians:
 
-#### Extensions Chrome/Firefox
-* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) - Bloqueur de publicité
-* [Tabby Cats](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) - Remplace la page "nouvel onglet" par un chat mignon généré aléatoirement
-
 #### Programmation
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
+
+
+Extensions
+----------
+*Extensions/Plugins pour navigateurs ou pour nos IDE préférés*
+
+#### Chrome/Firefox
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) - Bloqueur de publicité
+* [Tabby Cats](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) - Remplace la page "nouvel onglet" par un chat mignon généré aléatoirement
+
+#### VSCode
 
 
 Ressources en ligne
