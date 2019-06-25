@@ -16,6 +16,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Audiovisuel](#audiovisuel)
 	- [Gestion de projets](#gestion-de-projets)
+	- [Extensions Chrome/Firefox]
 
 Logiciels et services web
 -------------------------
@@ -34,3 +35,6 @@ Logiciels et services web
 #### Gestion de projets
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Trello](https://trello.com/) - Outil de board/Kanban/Agile, très pratique pour le travail en équipe pour la gestion de features/bugs :globe_with_meridians:
+
+#### Extensions Chrome/Firefox
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) - Bloqueur de publicité
