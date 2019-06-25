@@ -18,7 +18,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - :heavy_check_mark: - Présent sur brew
 
 ## Table des matières
-- [Logiciels et services web](#logicielsetservicesweb)
+- [Logiciels et services web](#logiciels-et-services-web)
 	- [Audiovisuel](#audiovisuel)
 
 Logiciels et services web
@@ -27,3 +27,4 @@ Logiciels et services web
 
 #### Audiovisuel
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
+* [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
