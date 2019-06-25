@@ -20,7 +20,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Audiovisuel](#audiovisuel)
 	- [Programmation](#programmation)
 - [Extensions](#extensions)
-	- [Chrome/Firefox](#chrome-firefox)
+	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
 - [Bons plans IRL](#bons-plans-irl)
