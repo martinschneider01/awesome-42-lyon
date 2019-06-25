@@ -40,8 +40,8 @@ Logiciels et services web
 * [Trello](https://trello.com/) - Outil de board/Kanban/Agile, très pratique pour le travail en équipe pour la gestion de features/bugs :globe_with_meridians:
 
 #### Audiovisuel et Design
-* [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
-* [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
+* [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :globe_with_meridians:
+* [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :globe_with_meridians:
 * [DaVinci Resolve](https://apps.apple.com/fr/app/davinci-resolve/id571213070?mt=12) - Montage vidéo (à installer sur l'App Store, avec un compte Apple)
 * [Archillect](http://archillect.com/about) - AI qui trouve des images en fonction d'un mot clé (pour trouver de l'inspiration) :globe_with_meridians:
 * [ClipChamp](https://clipchamp.com) - Montage vidéo en ligne :globe_with_meridians:
