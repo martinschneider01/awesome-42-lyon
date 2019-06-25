@@ -7,7 +7,6 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 </p>
-<br>
 
 # À propos
 Une awesome liste pour 42 Lyon ! <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">C'est quoi une awesome list ? (anglais)</a><br>
