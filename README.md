@@ -16,7 +16,10 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Audiovisuel](#audiovisuel)
 	- [Gestion de projets](#gestion-de-projets)
-	- [Extensions Chrome/Firefox]
+	- [Extensions Chrome/Firefox](#extensions-chromefirefox)
+	- [Programmation](#programmation)
+- [Bons plans IRL](#bons-plans-irl)
+	- [Bars et Restos](#bars-et-restos)
 
 Logiciels et services web
 -------------------------
@@ -38,3 +41,14 @@ Logiciels et services web
 
 #### Extensions Chrome/Firefox
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) - Bloqueur de publicité
+
+#### Programmation
+* PLACEHOLDER
+
+
+Bons plans IRL
+--------------
+Toutes les réductions qu'il est possible d'avoir en étant étudiant à 42 Lyon
+
+#### Bars et Restos
+* [ConfluTime](https://fr-fr.facebook.com/pages/category/Bar/ConfluTime-1841249056168178/) - Bar à deux pas de l'école, prix Happy Hours tout le temps pour les étudiants de 42 (5€ la pinte)
