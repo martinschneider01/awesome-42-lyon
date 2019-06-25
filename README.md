@@ -15,6 +15,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 ## Table des matières
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Audiovisuel](#audiovisuel)
+	- [Gestion de projets](#gestion-de-projets)
 
 Logiciels et services web
 -------------------------
@@ -29,3 +30,7 @@ Logiciels et services web
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
 * [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
 * [DaVinci Resolve](https://apps.apple.com/fr/app/davinci-resolve/id571213070?mt=12) - Montage vidéo (à installer sur l'App Store, avec un compte Apple)
+
+#### Gestion de projets
+* [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
+* [Trello](https://trello.com/) - Outil de board/Kanban/Agile, très pratique pour le travail en équipe pour la gestion de features/bugs :globe_with_meridians:
