@@ -23,6 +23,8 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
 - [Ressources en ligne](#ressources-en-ligne)
+	- [Général](#general-1)
+	- [Programmation](#programmation-1)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
 
@@ -64,7 +66,12 @@ Ressources en ligne
 -------------------
 *Sites de tutos, d'actualités, d'articles*
 
+#### Général
+* []() - 
+* [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
+
 #### Programmation
+* [HackerRank](https://www.hackerrank.com/) - Concours de programmation et plateforme de recrutement
 
 
 Bons plans IRL
