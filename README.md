@@ -16,10 +16,12 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 
 ## Table des matières
 - [Logiciels et services web](#logiciels-et-services-web)
+	- [Général](#general)
 	- [Audiovisuel](#audiovisuel)
 	- [Gestion de projets](#gestion-de-projets)
 	- [Extensions Chrome/Firefox](#extensions-chromefirefox)
 	- [Programmation](#programmation)
+- [Ressources en ligne](#ressources-en-ligne)
 - [Bons plans IRL](#bons-plans-irl)
 	- [Bars et Restos](#bars-et-restos)
 
@@ -30,10 +32,14 @@ Logiciels et services web
 - :white_check_mark: - Présent sur le MSC
 - :heavy_check_mark: - Présent sur brew
 
-#### Audiovisuel
+#### Général
+* [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
+
+#### Audiovisuel et Design
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :free: :globe_with_meridians:
 * [EZGif](https://ezgif.com/maker) - Outil de création et d'édition de GIF :free: :globe_with_meridians:
 * [DaVinci Resolve](https://apps.apple.com/fr/app/davinci-resolve/id571213070?mt=12) - Montage vidéo (à installer sur l'App Store, avec un compte Apple)
+* [Archillect](http://archillect.com/about) - AI qui trouve des images en fonction d'un mot clé (pour trouver de l'inspiration)
 
 #### Gestion de projets
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
@@ -45,6 +51,11 @@ Logiciels et services web
 
 #### Programmation
 * PLACEHOLDER
+
+Ressources en ligne
+-------------------
+*Sites de tutos, d'actualités, d'articles*
+
 
 
 Bons plans IRL
