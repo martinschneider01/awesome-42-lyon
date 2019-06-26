@@ -81,6 +81,7 @@ Ressources en ligne
 *Sites de tutos, d'actualités, d'articles*
 
 #### Général
+* [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
 * /sgoinfre/Brainfood (sur le réseau de 42 Lyon oc) - Beaucoups de PDF (cours, tutos)
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
