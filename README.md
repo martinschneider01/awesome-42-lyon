@@ -15,6 +15,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 *Cette page a été réalisé par des étudiants de l'école 42 Lyon*
 
 ## Table des matières
+- [42 Ecosystème](#42ecosystème)
 - [Logiciels et services web](#logiciels-et-services-web)
 	- [Général](#général)
 	- [Audiovisuel](#audiovisuel-et-design)
@@ -31,6 +32,14 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Bars](#bars)
 	- [Restos](#restos)
 	- [Culture](#culture)
+	
+42 Ecosystème
+-------------
+*Outils et docs qui gravitent autour de l'environnement 42 et 42 Lyon*
+
+* [The Matrix](https://the-matrix.le-101.fr/) - La carte des clusters de 42 Lyon !
+* [Jobs](http://jobs.le-101.fr/) - Outil qui parse les annonces de stages/jobs sur le site des bienfaiteurs de 42 Lyon
+* [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
 
 Logiciels et services web
 -------------------------
@@ -81,7 +90,6 @@ Ressources en ligne
 *Sites de tutos, d'actualités, d'articles*
 
 #### Général
-* [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
 * /sgoinfre/Brainfood (sur le réseau de 42 Lyon oc) - Beaucoups de PDF (cours, tutos)
 * [Comment Devenir un bon programmeur](https://programmation.developpez.com/tutoriel/comment-devenir-bon-programmeur/?page=introduction) - Long tutoriel qui couvre beaucoup de sujets autour du métier de développeur
 
