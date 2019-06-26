@@ -43,6 +43,7 @@ Logiciels et services web
 #### Général
 * [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
 * [Trello](https://trello.com/) - Outil de board/Kanban/Agile, très pratique pour le travail en équipe pour la gestion de features/bugs :globe_with_meridians:
+* [Lucidchart](https://www.lucidchart.com/pages/usecase/education) - Outil de création de diagrammes, pratique pour l'UML / MVC / Diagramme de classes ... gratuit pour les students 42 (utiliser l'email @student.42.fr) :free:
 
 #### Audiovisuel et Design
 * [Photopea](https://www.photopea.com/) - Clone de Photoshop gratuit directement depuis le navigateur, sans inscription :globe_with_meridians:
