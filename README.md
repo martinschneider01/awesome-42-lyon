@@ -22,6 +22,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 	- [Outils de développement](#outils-de-développement)
 		- [Général](#général-1)
 		- [Web](#web)
+	- [Packages Homebrew utiles](#packages-homebrew-utiles)
 - [Extensions](#extensions)
 	- [Chrome/Firefox](#chromefirefox)
 	- [VSCode](#vscode)
@@ -49,7 +50,6 @@ Logiciels et services web
 - :free: - Avantages étudiant
 - :globe_with_meridians: - Service en ligne (sans téléchargement)
 - :white_check_mark: - Présent sur le MSC
-- :beer: - Présent sur brew
 
 #### Général
 * [Undesign](https://undesign.learn.uno/) - Collection d'outils et de ressources en ligne pour la programmation ou le design :globe_with_meridians:
@@ -71,11 +71,16 @@ Logiciels et services web
 * [Github Education](https://education.github.com/students) - Pack Github Student, avantages pro (utiliser l'email @student.42.fr) :free:
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
-* [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
 * [Aria](https://itunes.apple.com/us/app/aria/id1431709436?l=fr&ls=1&mt=12) - Éditeur de texte développé en solo par @bpisano
 
 ##### Web
 * [Postman](https://www.getpostman.com/) - Outil pratique pour développer et/ou manipuler des APIs facilement :white_check_mark:
+
+##### Packages Homebrew utiles
+* [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
+* [node](https://formulae.brew.sh/formula/node) - NodeJS
+* [Python](https://formulae.brew.sh/formula/python) - Python3
+
 
 Extensions
 ----------
