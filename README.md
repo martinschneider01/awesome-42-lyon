@@ -79,7 +79,8 @@ Logiciels et services web
 ##### Packages Homebrew utiles
 * [ncdu](https://formulae.brew.sh/formula/ncdu) - Outil brew pour trouver les fichiers volumineux sur ta session :beer:
 * [node](https://formulae.brew.sh/formula/node) - NodeJS
-* [Python](https://formulae.brew.sh/formula/python) - Python3
+* [Python](https://formulae.brew.sh/formula/python) - Python 3
+* [p7zip](https://formulae.brew.sh/formula/p7zip) - 7zip en ligne de commande (pour compresser/décompresser des fichiers)
 
 
 Extensions
