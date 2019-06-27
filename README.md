@@ -41,6 +41,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 * [The Matrix](https://the-matrix.le-101.fr/) - La carte des clusters de 42 Lyon !
 * [Intra Tuteurs](https://tuteurs.le-101.fr/) - Blog et intra des tuteurs de 42 Lyon
 * [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
+* [42homebrew](https://github.com/kube/42homebrew) - Permet d'installer Homebrew (outil de gestion de paquets pour Mac) sur ta session 42
 
 Logiciels et services web
 -------------------------
@@ -65,7 +66,8 @@ Logiciels et services web
 #### Outils de développement
 
 ##### Général
-* [JetBrains Student](https://www.jetbrains.com/student/) - IDE extrèmement complet, gratuit pour les students 42 (utiliser l'email @student.42.fr) :free:
+* [Oh My ZSH!](https://ohmyz.sh/) - Un super pimpeur de Shell (ZSH), permet de rajouter des plugisn, thèmes etc.
+* [JetBrains Student](https://www.jetbrains.com/student/) - Pakc d'IDE extrèmement complet, gratuit pour les students 42 (utiliser l'email @student.42.fr) :free:
 * [Github Education](https://education.github.com/students) - Pack Github Student, avantages pro (utiliser l'email @student.42.fr) :free:
 * [GitKraken](https://www.gitkraken.com/) - Interface user-friendly pour git :white_check_mark:
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - Liste de commandes facile pour git :globe_with_meridians:
