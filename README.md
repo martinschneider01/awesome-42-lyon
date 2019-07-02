@@ -114,7 +114,7 @@ Bons plans IRL
 * [ConfluTime](https://fr-fr.facebook.com/pages/category/Bar/ConfluTime-1841249056168178/) - Bar proche de l'école, Happy Hours constant pour les students avec la carte - 5€/pinte
 
 #### Restos
-* Subway - Réduction étudiante (10% il me semble, à vérifier)
+* Subway - Réduction étudiante de 10% et programme de fidélité via App Mobile
 * BurgerKing - Menu KingDeal à 5€50 environ, bon rapport quantité prix
 * [McDonald's](https://www.mcdonalds.fr/actualites/programme-fidelite) - Programme de fidélité via App Mobile
 
