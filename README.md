@@ -123,5 +123,5 @@ Bons plans IRL
 * Cinéma UGC - Des réductions pour avoir des places à 6€ sont assez régulièrements distribuées à Carrefour Confluence
 
 #### Autre
-* [Carte DINO](https://www.carte-dino.fr/) - Pour les -26 ans, permet d'avoir des réductions dans plein d'enseignes (Happy Hours contant au Hopstore par exemple), et des trucs offerts dans certains bars/restos (Plateau de Sushi chez Sushi Shop par exemple): 15€ la carte pour un an - Vraiment super bon plan
+* [Carte DINO](https://www.carte-dino.fr/) - Pour les -26 ans, permet d'avoir des réductions dans plein d'enseignes (Happy Hours constant au Hopstore par exemple), et des trucs offerts dans certains bars/restos (Plateau de Sushi chez Sushi Shop par exemple): 15€ la carte pour un an - Vraiment super bon plan
 * [TCL](http://www.tcl.fr/) - Réduction TCL étudiante (Abonnement à 31,80€)
