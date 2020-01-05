@@ -43,6 +43,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 * [Intra Tuteurs](https://tuteurs.le-101.fr/) - Blog et intra des tuteurs de 42 Lyon
 * [Github des Tuteurs](https://github.com/Tuteurs101/) - Des codes reviews, des ressources en rapport avec 42 Lyon, par des studs de 42 Lyon !
 * [42homebrew](https://github.com/kube/42homebrew) - Permet d'installer Homebrew (outil de gestion de paquets pour Mac) sur ta session 42
+* [RP42](https://github.com/alexandregv/RP42) - Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
 
 Logiciels et services web
 -------------------------
