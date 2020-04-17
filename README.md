@@ -45,6 +45,7 @@ La liste est ouverte à la contribution, n'hésitez donc pas à modifier le fich
 * [Discord 42](https://discord.gg/wsrkKE4) - Discord non officiel de 42, pour les curieux, piscineux et étudiants
 * [42homebrew](https://github.com/kube/42homebrew) - Permet d'installer Homebrew (outil de gestion de paquets pour Mac) sur ta session 42
 * [RP42](https://github.com/alexandregv/RP42) - Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
+* [42toolbox](https://github.com/alexandregv/42toolbox) - Boite à outils pour vous faciliter la vie à 42 (docker, valgrind, setup session, etc)
 
 Logiciels et services web
 -------------------------
